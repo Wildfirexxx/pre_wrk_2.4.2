@@ -1,0 +1,37 @@
+h1{
+	text-align: center;
+}
+.red{
+	color: red;
+}
+.blue{
+	color: blue;
+}
+.green{
+	color: green;
+}
+.big{
+	font-size: 35px;
+}
+.tiny{
+	font-size: 12px;
+}
+.center{
+	text-align: center;
+}
+
+.bigBoldOrange{
+	font-size: 35px;
+	font-weight: bold;
+	color: orange;
+}
+.styledFont{
+	color: limegreen;
+	font-family: "Times New Roman";
+}
+#styledImage{
+	border-width: 8px;
+	border-style: outset;
+	border-color: grey;
+	
+}
